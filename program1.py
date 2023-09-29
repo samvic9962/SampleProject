@@ -1,3 +1,3 @@
-fn=50
+fn=70
 fl=20
 print(fn+fl)
