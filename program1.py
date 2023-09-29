@@ -1,3 +1,3 @@
-fn=90
+fn=10
 fl=20
-print(fn+fl)
+print(fn*fl)
